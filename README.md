@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ##Introduction
 
 ##How to contribute
+
+##Copyright 
+
+GIT Training
