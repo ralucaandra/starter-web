@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--
+	CopyRight message-box
+-->
+
+<head>
+<<<<<<< HEAD
+	<title>A very respectful Website</title>
+=======
+	<title>An Great Website</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			I'm not sure what wil go here
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Jason Taylor 2014</p>
+=======
+			Some interesting
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; GIT TRaining 2014</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
